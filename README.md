@@ -37,7 +37,7 @@ This buildpack `detect` scripts checks the following:
 
 - The presence of a `.ruby-version`
 - The presence of a `Gemfile`
-- That you are NOT using the `ruby` method in your `Gemfile`
+- That you are using the `ruby` method in your `Gemfile`
 
 ## Credits
 
